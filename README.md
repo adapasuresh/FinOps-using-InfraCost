@@ -77,11 +77,8 @@ git clone https://github.com/devbhusal/terraform-ec2-RDS-wordpress <br>
 
 <hr>
 #Run and Compare the cost (decision)) <br>
-![image1] (./images/Aero-Cost-1.png)
+![image1](images/Aero-Cost-1.png)
 
 <hr>
-![image2] (./images/Aero-Cost-2.png)
-
-
-
+![image2](images/Aero-Cost-2.png)
 
