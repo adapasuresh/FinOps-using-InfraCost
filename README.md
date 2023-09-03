@@ -3,6 +3,22 @@
 Why? empower engineering teams to use cloud infrastructure economically and efficiently.
 
 <hr>
+
+#Decision
+
+| TF-Name                 | Cloud     | Cost($)    | Remarks                     |
+| ---                     | ---       | ---        | ---                         |
+| Aerospike-quick-start   | `AWS      | 89.97      |  730 hrs                    |
+| Aerospike-quick-start   | `GCP      | 87.12      |  730 hrs                    |
+| Aerospike-instance-types|  AWS `    | 1261.44    |  730 hrs c5d.9xlarge        |
+| Aerospike-instance-types|  AWS `    | 1979.76    |  730 hrs m5d.12xlarge       |
+| Aerospike-instance-types|  AWS `    | 2522.88    |  730 hrs r5d.12xlarge       |
+| Wordpress               |  AWS `    | 86.75      |  t3.xlarge                  |
+| Wordpress               |  AWS `    | 54.04      |  t3.medium                  |
+| Wordpress               |  AWS `    | 152.15     |  t3.large                   |
+
+<br>
+
 Depending upon the Operating System and the Arch-type, download the infracost binary. <br>
 <u>Refer:</u> <br>
 https://www.infracost.io/docs/#1-install-infracost and <br>
